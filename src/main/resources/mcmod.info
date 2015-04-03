@@ -1,0 +1,16 @@
+[
+{
+  "modid": "onebiome",
+  "name": "OneBiome",
+  "description": "One biome to generate them all",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Funwayguy","Iskandar"],
+  "credits": "",
+  "logoFile": "title.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
