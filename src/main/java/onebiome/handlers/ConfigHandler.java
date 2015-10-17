@@ -21,6 +21,7 @@ public class ConfigHandler
 		config.load();
 		
 		OB_Settings.biomeID = config.getInt("Biome ID", Configuration.CATEGORY_GENERAL, -1, -1, 255, "The biome ID to use for all worlds (-1 to disable)");
+		OB_Settings.seaLvl = config.getInt("Sea Level", Configuration.CATEGORY_GENERAL, 63, 0, 255, "How high should sea level generate at");
 		
 		config.save();
 		

@@ -6,4 +6,5 @@ package onebiome.core;
 public class OB_Settings
 {
 	public static int biomeID = -1;
+	public static int seaLvl = 63;
 }
